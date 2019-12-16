@@ -4,7 +4,7 @@ En este programa empleo una pequeña biblioteca que hice para poder realizar el 
 El proceso consta de dos pasos generales:
 
 El primero es iniciar el GPRS:
-Se configura tipo de conexión: GPRS
+Se configura tipo de conexión: GPRS.
 Se configura el Access Point Name, lo cual se hace de acuerdo a la telefónica de la que sea tu chip.
 Y por ultimo se activa el contexto GPRS.
 
